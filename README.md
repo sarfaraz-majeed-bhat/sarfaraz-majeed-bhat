@@ -90,3 +90,8 @@ I focus on writing clean, scalable, and secure code that delivers long-term valu
 
 
 ⭐ Always open to collaboration on secure, scalable, and AI-driven solutions.
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarfaraz-majeed-bhat&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfaraz-majeed-bhat&layout=compact)
